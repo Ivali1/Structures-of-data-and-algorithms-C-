@@ -1,0 +1,6 @@
+﻿  Main.cpp
+e:\sd 2018 september\aditionalhomeworktask2\main.cpp(145): warning C4715: 'IsFull': not all control paths return a value
+e:\sd 2018 september\aditionalhomeworktask2\main.cpp(115): warning C4715: 'isBst': not all control paths return a value
+e:\sd 2018 september\aditionalhomeworktask2\main.cpp(298): warning C4715: 'ReduceToBst': not all control paths return a value
+  AditionalHomeworkTask2.vcxproj -> E:\sd 2018 september\AditionalHomeworkTask2\Debug\AditionalHomeworkTask2.exe
+  AditionalHomeworkTask2.vcxproj -> E:\sd 2018 september\AditionalHomeworkTask2\Debug\AditionalHomeworkTask2.pdb (Partial PDB)

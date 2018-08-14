@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\ivalina\documents\visual studio 2017\projects\bst\main.cpp(69): warning C4715: 'isBst': not all control paths return a value
+c:\users\ivalina\documents\visual studio 2017\projects\bst\main.cpp(119): warning C4715: 'IsFull2': not all control paths return a value
+  BST.vcxproj -> c:\users\ivalina\documents\visual studio 2017\Projects\BST\Debug\BST.exe
+  BST.vcxproj -> c:\users\ivalina\documents\visual studio 2017\Projects\BST\Debug\BST.pdb (Partial PDB)
